@@ -17,7 +17,7 @@ _Self-motivated with in-depth knowledge of programming language, object-oriented
 
 * Deep knowledge of OOP, Data Structures, Algorithms, Database Design and Design Patterns.
 * Programming Language: C/C++, Java, Python, SQL
-* Technology/Framework: Django, Spring MVC, Spring Boot, JUnit, Mockito, Spring Security, ReactJS/Redux, Machine Learning.
+* Technology/Framework: Django, Django Rest, DJango Security, Django Testing, Spring MVC, Spring Boot(Rest, Security, Testing), ReactJS/Redux, Machine Learning, Deep Learning, Computer Vision.
 * Database: MySQL, PostgreSQL, SQLite, H2.
 * Others: Problem Solving, Software Testing.
 
