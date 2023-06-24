@@ -17,7 +17,7 @@ _Self-motivated with in-depth knowledge of programming language, object-oriented
 
 * Deep knowledge of OOP, Data Structures, Algorithms, Database Design and Design Patterns.
 * Programming Language: C/C++, Java, Python, SQL
-* Technology/Framework: Django, Django Rest, DJango Security, Django Testing, Spring MVC, Spring Boot(Rest, Security, Testing), ReactJS/Redux, Machine Learning, Deep Learning, Computer Vision.
+* Technology/Framework: Django, Django Rest, DJango Security, Django Testing, Spring MVC, Spring Boot(Rest, Security, Testing), ReactJS/Redux, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.
 * Database: MySQL, PostgreSQL, SQLite, H2.
 * Others: Problem Solving, Software Testing.
 
@@ -32,14 +32,5 @@ _Self-motivated with in-depth knowledge of programming language, object-oriented
 <!-- ![GitHub metrics](https://metrics.lecoq.io/parvez86) -->
 
 ![Parvez's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvez86&hide=prs&show_icons=true&theme=radical&count_private=true)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvez86&langs_count=6&layout=compact&exclude_repo=Personality-Prediction-Based-on-Twitter-Data&langs_count=10&show_icons=true&theme=radical&count_private=true&hide=Javascript,Cython,XSLT,PowerShell,CSS,SCSS)](https://github.com/parvez86/parvez86) -->
-
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Biplob68&repo=Event-Managemant-App)](https://github.com/Biplob68/Event-Managemant-App)
 
 
-For github readme !
-https://github.com/anuraghazra/github-readme-stats#github-stats-card
-https://arturssmirnovs.github.io/github-profile-readme-generator/
--->
