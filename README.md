@@ -11,13 +11,16 @@ You can click the Preview link to take a look at your changes.
 ### Hi, How are You?.
 ![Profile views](https://gpvc.arturio.dev/parvez86)
 ### About Me:
-_Self-motivated with in-depth knowledge of programming language, object-oriented programming, data structure, and software development tools. I am interested in Software Engineer (Backend technologies) and always try to learn new technology and improve my skills. Currently working on Django, Spring Boot, React._
+Self-motivated with in-depth knowledge of programming language, object-oriented programming, data structure, and software development tools. I am interested in Software Engineer (Backend technologies) and always try to learn new technology and improve my skills. Currently working on Django, Spring Boot, React, Deep Learning.
 
 ### Technical Skill :
 
-* Deep knowledge of OOP, Data Structures, Algorithms, Database Design and Design Patterns.
+* Deep knowledge of OOP, Data Structures, Algorithms, Software Design Patterns and Database Design.
 * Programming Language: C/C++, Java, Python, SQL
-* Technology/Framework: Django, Django Rest, DJango Security, Django Testing, Spring MVC, Spring Boot(Rest, Security, Testing), ReactJS/Redux, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.
+* Backend Technologies/Frameworks: Django (REST, Security, Testing), Spring MVC, Spring Boot(Rest, Security, Testing), Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.
+* ML Technologies: Machine Learning, Deep Learning, Computer Vision, Natural Larnguage Processing.
+* ML tools: Numpy, Pandas, Matplotlib, Seaborn, Pytorch, Tensorflow.
+* FrontEnd Technologies/Framewroks: HTML, CSS, JS, Bootstrap, Jquery, React/Redux.
 * Database: MySQL, PostgreSQL, SQLite, H2.
 * Others: Problem Solving, Software Testing.
 
