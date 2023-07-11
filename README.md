@@ -19,7 +19,7 @@ Self-motivated with in-depth knowledge of programming language, object-oriented 
 * Programming Language: C/C++, Java, Python, SQL
 * Backend Technologies/Frameworks: Django (REST, Security, Testing), Spring MVC, Spring Boot(Rest, Security, Testing), Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.
 * ML Technologies: Machine Learning, Deep Learning, Computer Vision, Natural Larnguage Processing.
-* ML tools: Numpy, Pandas, Matplotlib, Seaborn, Pytorch, Tensorflow.
+* ML tools: Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Pytorch, Tensorflow.
 * FrontEnd Technologies/Framewroks: HTML, CSS, JS, Bootstrap, Jquery, React/Redux.
 * Database: MySQL, PostgreSQL, SQLite, H2.
 * Others: Problem Solving, Software Testing.
