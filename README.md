@@ -34,6 +34,6 @@ Self-motivated with in-depth knowledge of programming language, object-oriented 
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/parvez86) -->
 
-![Parvez's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvez86&hide=prs&show_icons=true&theme=radical&count_private=true)
-
-
+![Parvez's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvez86&hide=prs&show_icons=true&theme=radical)
+<!-- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parvez86&theme=react&line_height=40&hide=css"/> </a>-->
+<!-- ![Parvez's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvez86&hide=prs&show_icons=true&theme=radical&count_private=true) </a>-->
