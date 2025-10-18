@@ -1,36 +1,76 @@
-<!-- - 👋 Hi, I’m @parvez86
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there, I'm Shahriar Parvez  
 
-<!---
-parvez86/parvez86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
-### Hi, How are You?.
-![Profile views](https://gpvc.arturio.dev/parvez86)
-### About Me:
-Self-motivated with in-depth knowledge of programming language, object-oriented programming, data structure, and software development tools. I am interested in Software Engineer (Backend technologies) and always try to learn new technology and improve my skills. Currently working on Django, Spring Boot, React, Deep Learning.
+🚀 **Software Engineer | Java | Spring Boot | Microservices | Django | Deep Learning Enthusiast**
 
-### Technical Skill :
+I'm a **self-motivated Software Engineer** with in-depth knowledge of **Object-Oriented Programming (OOP)**, **Data Structures**, **Algorithms**, and **Software Design Patterns**.  
+I’m passionate about **backend engineering**, especially building **scalable, event-driven microservices** and exploring **AI-powered systems** that make an impact.
 
-* Deep knowledge of OOP, Data Structures, Algorithms, Software Design Patterns and Database Design.
-* Programming Language: C/C++, Java, Python, SQL
-* Backend Technologies/Frameworks: Django (REST, Security, Testing), Spring MVC, Spring Boot(Rest, Security, Testing), Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.
-* ML Technologies: Machine Learning, Deep Learning, Computer Vision, Natural Larnguage Processing.
-* FrontEnd Technologies/Framewroks: HTML, CSS, JS, Bootstrap, Jquery, React/Redux.
-* ML tools: Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Pytorch, Tensorflow.
-* Database: MySQL, PostgreSQL, SQLite, H2.
-* Others: Problem Solving, Software Testing.
+Currently working with **Spring Boot**, **Django REST**, and **React**, while expanding my skills in **Deep Learning, NLP**, and **modern system architecture (DDD, microservices, and event-driven design)**.
 
+---
 
-<!--
-## ⚙️ Technologies & Tools
-<img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br/>
-<img src="https://img.shields.io/badge/Frameworks-151515?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![badge-git](https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git&logoColor=79740e&labelColor=151515)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) <br/>
-<img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![badge-mysql](https://img.shields.io/badge/mysql-151515?style=for-the-badge&logo=mysql&logoColor=79740e&labelColor=151515)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
--->
+### 🧠 Technical Skills
+
+**Core Concepts:**  
+- Strong understanding of OOP, Data Structures, Algorithms, Database Design, and Software Design Patterns.  
+
+**Languages:**  
+- Java, Python, C/C++, SQL  
+
+**Backend Frameworks:**  
+- Spring Boot (REST, Security, Testing), Spring MVC, Django REST Framework  
+
+**Frontend Technologies:**  
+- React, Redux, JavaScript, HTML, CSS, Bootstrap  
+
+**Databases:**  
+- PostgreSQL, MySQL, SQLite, H2  
+
+**Messaging & Caching:**  
+- Redis, RabbitMQ, WebSocket  
+
+**Machine Learning & AI:**  
+- Machine Learning, Deep Learning, NLP, Computer Vision  
+- Libraries: NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, OpenCV  
+
+**DevOps & Tools:**  
+- Docker, Git, Maven/Gradle, Prometheus, Grafana  
+
+**Testing:**  
+- JUnit, Mockito, Testcontainers  
+
+---
+
+### 🧩 Featured Projects
+
+- 🧠 [**Smart Job Recruitment System**](https://github.com/parvez86/Smart-Recruitment-System)  
+  Machine Learning-based job recruitment system using **NLP (TF-IDF)** and **KNN classification** for intelligent candidate ranking.
+
+- 💬 [**SentimentAnalysisAPI**](https://github.com/parvez86/SentimentAnalysisAPI)  
+  REST API for **AI-powered sentiment analysis** using **BERT transformers**, achieving ~83% accuracy.
+
+- 🎫 [**Tickify**](https://tickify.live/)  
+  Real-time event ticketing web application with modular architecture and backend APIs built on **Django REST Framework**.
+
+---
+
+### 🧰 What I'm Currently Working On
+- Building **fintech microservices** with Java & Spring Boot  
+- Experimenting with **Virtual Threads** and **Reactive Streams** for concurrency  
+- Exploring **distributed systems**, **API optimization**, and **domain-driven design (DDD)**  
+
+---
+
+### 🌐 Connect With Me
+
+📧 **Email:** [shahriarp86@gmail.com](mailto:shahriarp86@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/shahriar-parvez](https://linkedin.com/in/shahriar-parvez)  
+💻 **Portfolio / GitHub:** [github.com/parvez86](https://github.com/parvez86)
+
+---
+
+> _“Code for clarity, design for scalability, and learn relentlessly.”_  
+
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/parvez86) -->
 
