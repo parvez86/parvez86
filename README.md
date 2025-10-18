@@ -1,75 +1,71 @@
-# 👋 Hi there, I'm Shahriar Parvez  
+# 👋 Hi, I'm Shahriar Parvez  
 
-🚀 **Software Engineer | Java | Spring Boot | Microservices | Django | Deep Learning Enthusiast**
+🚀 **Software Engineer | Java | Spring Boot | Microservices | Fintech | Distributed Systems**
 
-I'm a **self-motivated Software Engineer** with in-depth knowledge of **Object-Oriented Programming (OOP)**, **Data Structures**, **Algorithms**, and **Software Design Patterns**.  
-I’m passionate about **backend engineering**, especially building **scalable, event-driven microservices** and exploring **AI-powered systems** that make an impact.
+I’m a **self-driven backend engineer** with over **3 years of professional experience** building scalable, event-driven microservices using **Java, Spring Boot, and Django REST**.  
+Passionate about **system design**, **API performance optimization**, and **cloud-ready architectures**, I focus on creating reliable, secure, and high-performance backend systems.
 
-Currently working with **Spring Boot**, **Django REST**, and **React**, while expanding my skills in **Deep Learning, NLP**, and **modern system architecture (DDD, microservices, and event-driven design)**.
-
----
-
-### 🧠 Technical Skills
-
-**Core Concepts:**  
-- Strong understanding of OOP, Data Structures, Algorithms, Database Design, and Software Design Patterns.  
-
-**Languages:**  
-- Java, Python, C/C++, SQL  
-
-**Backend Frameworks:**  
-- Spring Boot (REST, Security, Testing), Spring MVC, Django REST Framework  
-
-**Frontend Technologies:**  
-- React, Redux, JavaScript, HTML, CSS, Bootstrap  
-
-**Databases:**  
-- PostgreSQL, MySQL, SQLite, H2  
-
-**Messaging & Caching:**  
-- Redis, RabbitMQ, WebSocket  
-
-**Machine Learning & AI:**  
-- Machine Learning, Deep Learning, NLP, Computer Vision  
-- Libraries: NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch, OpenCV  
-
-**DevOps & Tools:**  
-- Docker, Git, Maven/Gradle, Prometheus, Grafana  
-
-**Testing:**  
-- JUnit, Mockito, Testcontainers  
+Currently, I’m working on **fintech and gaming microservices** at *Incognito Solutions BD*, optimizing APIs and distributed workflows that support **tens of thousands of daily users** with **99.99% uptime**.
 
 ---
 
-### 🧩 Featured Projects
+### 🧠 **Core Expertise**
+- **Backend Engineering:** Spring Boot, Django REST, RESTful API Design, Microservices, Event-driven Systems  
+- **Database & Messaging:** PostgreSQL, MySQL, Redis, RabbitMQ, WebSocket  
+- **Performance & Monitoring:** Virtual Threads, Caching, SQL Tuning, Prometheus, Grafana  
+- **Architecture & Security:** DDD, API Gateway, JWT, OAuth2, RBAC 
+- **DevOps & Tools:** Docker, Git, Gradle/Maven, Liquibase 
+- **Reporting**: JasperReports (PDF), Apache POI (Excel/CSV) 
+- **Machine Learning Enthusiast:** Deep Learning, NLP (BERT, Transformers), Scikit-Learn, NLTK  
 
+---
+
+### ⚙️ **Technical Stack**
+
+| Category | Technologies |
+|-----------|---------------|
+| **Languages** | Java, Python, C/C++, SQL |
+| **Frameworks** | Spring Boot, Django REST, React |
+| **Databases** | PostgreSQL, MySQL, SQLite, H2 |
+| **Tools** | Docker, Git, Prometheus, Grafana, Liquibase |
+| **ML & AI** | TensorFlow, PyTorch, Scikit-Learn, OpenCV |
+| **Testing** | JUnit, Mockito, Testcontainers |
+
+---
+
+### 🌟 **Highlighted Projects**
 - 🧠 [**Smart Job Recruitment System**](https://github.com/parvez86/Smart-Recruitment-System)  
-  Machine Learning-based job recruitment system using **NLP (TF-IDF)** and **KNN classification** for intelligent candidate ranking.
+  Machine Learning-based platform using **TF-IDF & KNN** to intelligently rank candidates from CVs.  
+  → *Built with Django REST, Scikit-Learn, PostgreSQL*
 
 - 💬 [**SentimentAnalysisAPI**](https://github.com/parvez86/SentimentAnalysisAPI)  
-  REST API for **AI-powered sentiment analysis** using **BERT transformers**, achieving ~83% accuracy.
+  REST API for **AI-driven sentiment analysis** using **BERT transformers** (83% accuracy).  
+  → *Built with Django, HuggingFace, PyTorch*
 
 - 🎫 [**Tickify**](https://tickify.live/)  
-  Real-time event ticketing web application with modular architecture and backend APIs built on **Django REST Framework**.
+  Real-time ticketing system backend built with **Django REST** and modular architecture.
 
 ---
 
-### 🧰 What I'm Currently Working On
-- Building **fintech microservices** with Java & Spring Boot  
-- Experimenting with **Virtual Threads** and **Reactive Streams** for concurrency  
-- Exploring **distributed systems**, **API optimization**, and **domain-driven design (DDD)**  
+### 🔭 **Currently Exploring**
+- Virtual Threads for lightweight concurrency in Spring Boot  
+- Event-driven microservices using RabbitMQ & Redis Streams  
+- Advanced monitoring with Prometheus, Grafana, and Micrometer  
 
 ---
 
-### 🌐 Connect With Me
-
+### 🌐 **Connect With Me**
 📧 **Email:** [shahriarp86@gmail.com](mailto:shahriarp86@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/shahriar-parvez](https://linkedin.com/in/shahriar-parvez)  
-💻 **Portfolio / GitHub:** [github.com/parvez86](https://github.com/parvez86)
+💻 **GitHub Portfolio:** [github.com/parvez86](https://github.com/parvez86)  
+
+🧠 **Problem Solving:**  
+- [LeetCode](https://leetcode.com/parvez86)  
+- [HackerRank](https://www.hackerrank.com/shahriar86)
 
 ---
 
-> _“Code for clarity, design for scalability, and learn relentlessly.”_  
+> _“Write clean code, design scalable systems, and keep learning — always.”_
 
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/parvez86) -->
